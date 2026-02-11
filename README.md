@@ -11,7 +11,7 @@ Siber suçlarla mücadele ve ofansif güvenlik alanında kendimi geliştiriyorum
 ### 🎯 Odak Noktalarım
 - Pentest (Sızma Testleri) Metodolojileri
 - Ağ Güvenliği ve Zafiyet Analizi
-- Python ile Ofansif Araç Geliştirme## 
+- Python ile Ofansif Araç Geliştirme
 
 <!--
 **avci-cyber/avci-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
